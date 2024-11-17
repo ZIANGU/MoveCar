@@ -1,12 +1,12 @@
 // 配置文件
 const config = {
     // 车主电话号码
-    phone: '13161991613',
+    phone: '1316XXXXXXX',
     
     // 微信推送配置
     wxPusher: {
-        appToken: 'AT_x2nQivsYLJK4knvYljx35YQtwn1fAbGK',
-        uids: ['UID_p2iaIZefYc87yoeAzRJi11ZGbdgy'],
+        appToken: 'AT_XXXXXXXXXXXXXXXXXXK',
+        uids: ['UID_XXXXXXXXXXXXXXXXXX'],
         apiUrl: 'https://wxpusher.zjiecode.com/api/send/message'
     },
     
